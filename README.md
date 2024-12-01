@@ -16,14 +16,9 @@ Asegúrate de tener Python 3 instalado y las siguientes bibliotecas:
 
 
 ## Archivos
-- **texto_a_voz.py:** Código principal del programa.
+- **Interfaz_TEXTOaVOZ.py:** Código principal del programa.
 - **archivoPrueba.txt (opcional):** Archivo de prueba para leer texto.
 
-## Cómo usar
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/texto-a-voz.git
-   cd texto-a-voz
 
 
 
