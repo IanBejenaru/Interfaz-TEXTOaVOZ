@@ -21,7 +21,7 @@ Asegúrate de tener Python 3 instalado y las siguientes bibliotecas:
 
 ## Screenshots
 
-![App Screenshot](D:\Escritorio\MASTER_WEB\readme_gitHUB\ScreenShots\interfaz_TExtoaVOZ.png)
+![App Screenshot](https://github.com/IanBejenaru/Interfaz-TEXTOaVOZ/blob/main/imagenes/interfaz_TExtoaVOZ.png)
 
 
 
