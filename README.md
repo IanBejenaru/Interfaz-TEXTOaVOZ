@@ -19,7 +19,7 @@ Asegúrate de tener Python 3 instalado y las siguientes bibliotecas:
 - **Interfaz_TEXTOaVOZ.py:** Código principal del programa.
 - **archivoPrueba.txt (opcional):** Archivo de prueba para leer texto.
 
-## Screenshots
+## Capturas de pantalla
 
 ![App Screenshot](https://github.com/IanBejenaru/Interfaz-TEXTOaVOZ/blob/main/imagenes/interfaz_TExtoaVOZ.png)
 
